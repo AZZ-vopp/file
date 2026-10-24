@@ -9,26 +9,26 @@ Bấm **Tải về** để tải ngay, hoặc bấm nút **Copy** ở góc phả
 
 ### arm64-v8a — hầu hết điện thoại Android hiện nay (khuyên dùng) · 118.3 MB
 
-[**⬇ Tải về**](https://gh-proxy.com/https://github.com/AZZ-vopp/file/releases/download/1.0/MAXBEN-PLUS-Android-1.0.12-build40-arm64-v8a.apk)
+[**⬇ Tải về**](https://gh-proxy.com/https://github.com/AZZ-vopp/file/releases/download/1.0.12-build40/MAXBEN-PLUS-Android-1.0.12-build40-arm64-v8a.apk)
 
 ```
-https://gh-proxy.com/https://github.com/AZZ-vopp/file/releases/download/1.0/MAXBEN-PLUS-Android-1.0.12-build40-arm64-v8a.apk
+https://gh-proxy.com/https://github.com/AZZ-vopp/file/releases/download/1.0.12-build40/MAXBEN-PLUS-Android-1.0.12-build40-arm64-v8a.apk
 ```
 
 ### armeabi-v7a — máy Android đời cũ (32-bit) · 110.4 MB
 
-[**⬇ Tải về**](https://gh-proxy.com/https://github.com/AZZ-vopp/file/releases/download/1.0/MAXBEN-PLUS-Android-1.0.12-build40-armeabi-v7a.apk)
+[**⬇ Tải về**](https://gh-proxy.com/https://github.com/AZZ-vopp/file/releases/download/1.0.12-build40/MAXBEN-PLUS-Android-1.0.12-build40-armeabi-v7a.apk)
 
 ```
-https://gh-proxy.com/https://github.com/AZZ-vopp/file/releases/download/1.0/MAXBEN-PLUS-Android-1.0.12-build40-armeabi-v7a.apk
+https://gh-proxy.com/https://github.com/AZZ-vopp/file/releases/download/1.0.12-build40/MAXBEN-PLUS-Android-1.0.12-build40-armeabi-v7a.apk
 ```
 
 ### x86_64 — giả lập Android trên máy tính (LDPlayer, MuMu…) · 125.4 MB
 
-[**⬇ Tải về**](https://gh-proxy.com/https://github.com/AZZ-vopp/file/releases/download/1.0/MAXBEN-PLUS-Android-1.0.12-build40-x86_64.apk)
+[**⬇ Tải về**](https://gh-proxy.com/https://github.com/AZZ-vopp/file/releases/download/1.0.12-build40/MAXBEN-PLUS-Android-1.0.12-build40-x86_64.apk)
 
 ```
-https://gh-proxy.com/https://github.com/AZZ-vopp/file/releases/download/1.0/MAXBEN-PLUS-Android-1.0.12-build40-x86_64.apk
+https://gh-proxy.com/https://github.com/AZZ-vopp/file/releases/download/1.0.12-build40/MAXBEN-PLUS-Android-1.0.12-build40-x86_64.apk
 ```
 
 Không biết chọn bản nào thì tải **arm64-v8a**.
@@ -37,18 +37,18 @@ Không biết chọn bản nào thì tải **arm64-v8a**.
 
 ### Bản cài đặt — có biểu tượng ở Start menu (khuyên dùng) · 37.9 MB
 
-[**⬇ Tải về**](https://gh-proxy.com/https://github.com/AZZ-vopp/file/releases/download/1.0/MAXBEN-PLUS-Windows-1.0.12-build40-setup.exe)
+[**⬇ Tải về**](https://gh-proxy.com/https://github.com/AZZ-vopp/file/releases/download/1.0.12-build40/MAXBEN-PLUS-Windows-1.0.12-build40-setup.exe)
 
 ```
-https://gh-proxy.com/https://github.com/AZZ-vopp/file/releases/download/1.0/MAXBEN-PLUS-Windows-1.0.12-build40-setup.exe
+https://gh-proxy.com/https://github.com/AZZ-vopp/file/releases/download/1.0.12-build40/MAXBEN-PLUS-Windows-1.0.12-build40-setup.exe
 ```
 
 ### Bản portable — giải nén rồi chạy `MAXBEN-PLUS.exe`, không cần cài · 54.4 MB
 
-[**⬇ Tải về**](https://gh-proxy.com/https://github.com/AZZ-vopp/file/releases/download/1.0/MAXBEN-PLUS-Windows-1.0.12-build40-portable.zip)
+[**⬇ Tải về**](https://gh-proxy.com/https://github.com/AZZ-vopp/file/releases/download/1.0.12-build40/MAXBEN-PLUS-Windows-1.0.12-build40-portable.zip)
 
 ```
-https://gh-proxy.com/https://github.com/AZZ-vopp/file/releases/download/1.0/MAXBEN-PLUS-Windows-1.0.12-build40-portable.zip
+https://gh-proxy.com/https://github.com/AZZ-vopp/file/releases/download/1.0.12-build40/MAXBEN-PLUS-Windows-1.0.12-build40-portable.zip
 ```
 
 Yêu cầu Windows 10/11 64-bit. Lần kết nối đầu tiên Windows sẽ hỏi quyền quản trị để bật chế độ TUN.
@@ -57,10 +57,10 @@ Yêu cầu Windows 10/11 64-bit. Lần kết nối đầu tiên Windows sẽ h�
 
 ### Bản cài đặt .pkg — chạy được cả Mac chip Apple (M1–M4) và Mac Intel · 89.5 MB
 
-[**⬇ Tải về**](https://gh-proxy.com/https://github.com/AZZ-vopp/file/releases/download/1.0/MAXBEN-PLUS-macOS-1.0.12-build40.pkg)
+[**⬇ Tải về**](https://gh-proxy.com/https://github.com/AZZ-vopp/file/releases/download/1.0.12-build40/MAXBEN-PLUS-macOS-1.0.12-build40.pkg)
 
 ```
-https://gh-proxy.com/https://github.com/AZZ-vopp/file/releases/download/1.0/MAXBEN-PLUS-macOS-1.0.12-build40.pkg
+https://gh-proxy.com/https://github.com/AZZ-vopp/file/releases/download/1.0.12-build40/MAXBEN-PLUS-macOS-1.0.12-build40.pkg
 ```
 
 Mở file `.pkg` và làm theo hướng dẫn; app được cài vào thư mục Applications với tên **Max Ben Plus**.
