@@ -1,34 +1,36 @@
 # Max Ben Plus — Tải về
 
-Phiên bản **1.0.12 (build 43)** · cập nhật 25/10/2026
+Phiên bản **1.0.12 (build 45)** · cập nhật 26/10/2026
 
 Các đường dẫn đi qua `gh-proxy.com` để tải nhanh và ổn định hơn ở Việt Nam và Trung Quốc.
 Bấm **Tải về** để tải ngay, hoặc bấm nút **Copy** ở góc phải ô link để sao chép đường dẫn.
+
+Từ bản này, app trên Android, Windows và macOS tự báo khi có bản mới (chấm đỏ ở trang chủ) và tự tải, tự cài khi bạn bấm **Cập nhật**.
 
 ## Android
 
 ### arm64-v8a — hầu hết điện thoại Android hiện nay (khuyên dùng) · 118.5 MB
 
-[**⬇ Tải về**](https://gh-proxy.com/https://github.com/AZZ-vopp/file/releases/download/1.0.12-build43/MAXBEN-PLUS-Android-1.0.12-build43-arm64-v8a.apk)
+[**⬇ Tải về**](https://gh-proxy.com/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build45/MAXBEN-PLUS-Android-1.0.12-build45-arm64-v8a.apk)
 
 ```
-https://gh-proxy.com/https://github.com/AZZ-vopp/file/releases/download/1.0.12-build43/MAXBEN-PLUS-Android-1.0.12-build43-arm64-v8a.apk
+https://gh-proxy.com/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build45/MAXBEN-PLUS-Android-1.0.12-build45-arm64-v8a.apk
 ```
 
 ### armeabi-v7a — máy Android đời cũ (32-bit) · 110.7 MB
 
-[**⬇ Tải về**](https://gh-proxy.com/https://github.com/AZZ-vopp/file/releases/download/1.0.12-build43/MAXBEN-PLUS-Android-1.0.12-build43-armeabi-v7a.apk)
+[**⬇ Tải về**](https://gh-proxy.com/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build45/MAXBEN-PLUS-Android-1.0.12-build45-armeabi-v7a.apk)
 
 ```
-https://gh-proxy.com/https://github.com/AZZ-vopp/file/releases/download/1.0.12-build43/MAXBEN-PLUS-Android-1.0.12-build43-armeabi-v7a.apk
+https://gh-proxy.com/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build45/MAXBEN-PLUS-Android-1.0.12-build45-armeabi-v7a.apk
 ```
 
 ### x86_64 — giả lập Android trên máy tính (LDPlayer, MuMu…) · 125.7 MB
 
-[**⬇ Tải về**](https://gh-proxy.com/https://github.com/AZZ-vopp/file/releases/download/1.0.12-build43/MAXBEN-PLUS-Android-1.0.12-build43-x86_64.apk)
+[**⬇ Tải về**](https://gh-proxy.com/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build45/MAXBEN-PLUS-Android-1.0.12-build45-x86_64.apk)
 
 ```
-https://gh-proxy.com/https://github.com/AZZ-vopp/file/releases/download/1.0.12-build43/MAXBEN-PLUS-Android-1.0.12-build43-x86_64.apk
+https://gh-proxy.com/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build45/MAXBEN-PLUS-Android-1.0.12-build45-x86_64.apk
 ```
 
 Không biết chọn bản nào thì tải **arm64-v8a**.
@@ -37,18 +39,18 @@ Không biết chọn bản nào thì tải **arm64-v8a**.
 
 ### Bản cài đặt — có biểu tượng ở Start menu (khuyên dùng) · 37.9 MB
 
-[**⬇ Tải về**](https://gh-proxy.com/https://github.com/AZZ-vopp/file/releases/download/1.0.12-build43/MAXBEN-PLUS-Windows-1.0.12-build43-setup.exe)
+[**⬇ Tải về**](https://gh-proxy.com/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build45/MAXBEN-PLUS-Windows-1.0.12-build45-setup.exe)
 
 ```
-https://gh-proxy.com/https://github.com/AZZ-vopp/file/releases/download/1.0.12-build43/MAXBEN-PLUS-Windows-1.0.12-build43-setup.exe
+https://gh-proxy.com/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build45/MAXBEN-PLUS-Windows-1.0.12-build45-setup.exe
 ```
 
 ### Bản portable — giải nén rồi chạy `MAXBEN-PLUS.exe`, không cần cài · 54.5 MB
 
-[**⬇ Tải về**](https://gh-proxy.com/https://github.com/AZZ-vopp/file/releases/download/1.0.12-build43/MAXBEN-PLUS-Windows-1.0.12-build43-portable.zip)
+[**⬇ Tải về**](https://gh-proxy.com/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build45/MAXBEN-PLUS-Windows-1.0.12-build45-portable.zip)
 
 ```
-https://gh-proxy.com/https://github.com/AZZ-vopp/file/releases/download/1.0.12-build43/MAXBEN-PLUS-Windows-1.0.12-build43-portable.zip
+https://gh-proxy.com/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build45/MAXBEN-PLUS-Windows-1.0.12-build45-portable.zip
 ```
 
 Yêu cầu Windows 10/11 64-bit. Lần kết nối đầu tiên Windows sẽ hỏi quyền quản trị để bật chế độ TUN.
@@ -57,10 +59,10 @@ Yêu cầu Windows 10/11 64-bit. Lần kết nối đầu tiên Windows sẽ h�
 
 ### Bản cài đặt .pkg — chạy được cả Mac chip Apple (M1–M4) và Mac Intel · 89.8 MB
 
-[**⬇ Tải về**](https://gh-proxy.com/https://github.com/AZZ-vopp/file/releases/download/1.0.12-build43/MAXBEN-PLUS-macOS-1.0.12-build43.pkg)
+[**⬇ Tải về**](https://gh-proxy.com/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build45/MAXBEN-PLUS-macOS-1.0.12-build45.pkg)
 
 ```
-https://gh-proxy.com/https://github.com/AZZ-vopp/file/releases/download/1.0.12-build43/MAXBEN-PLUS-macOS-1.0.12-build43.pkg
+https://gh-proxy.com/https://github.com/AZZ-vopp/maxben-plus/releases/download/1.0.12-build45/MAXBEN-PLUS-macOS-1.0.12-build45.pkg
 ```
 
 Mở file `.pkg` và làm theo hướng dẫn; app được cài vào thư mục Applications với tên **Max Ben Plus**.
@@ -72,20 +74,10 @@ Bản iOS được phát hành qua TestFlight/App Store, không tải trực ti�
 ## Kiểm tra file (SHA-256)
 
 ```
-cfb9fccf5a8cd20b76d418d57f3387b30f40388498c5f239d2596f804bbb5618  MAXBEN-PLUS-Android-1.0.12-build43-arm64-v8a.apk
-8c7a16b2a52f29dd1b7c4fe63576b6ccbe2b9c4b668ff5abd56d1177f23fd9d8  MAXBEN-PLUS-Android-1.0.12-build43-armeabi-v7a.apk
-8e08680aefa660bc3baea6240b3b6ed3a28a4fb1d1a69eba29adb814433e7f44  MAXBEN-PLUS-Android-1.0.12-build43-x86_64.apk
-6a6c0e2b34cb72ffba0ab8e11ae648017cd3e8d876bbb480062b5d57c74cf04f  MAXBEN-PLUS-macOS-1.0.12-build43.pkg
-7e6b8db9921cb8321d647de13509cc688333fff5cc80c5923d5700727c579ea0  MAXBEN-PLUS-Windows-1.0.12-build43-setup.exe
-9269417d7edff18e4871198fca313a5b2d311e10e8d5c5fc7d71b1a58798669d  MAXBEN-PLUS-Windows-1.0.12-build43-portable.zip
-```
-
-## Khác
-
-### Nextin.apk
-
-[**⬇ Tải về**](https://gh-proxy.com/https://github.com/AZZ-vopp/file/releases/download/1.0/Nextin.apk)
-
-```
-https://gh-proxy.com/https://github.com/AZZ-vopp/file/releases/download/1.0/Nextin.apk
+8960784ee88bb9a49c62a5c68c2ba8df3fdc41749abadc66c71cbada76b1ee47  MAXBEN-PLUS-Android-1.0.12-build45-arm64-v8a.apk
+5e548f7f6d036cf69369af46384a327b2222cef9e87b7718874eaebe2c07a6ca  MAXBEN-PLUS-Android-1.0.12-build45-armeabi-v7a.apk
+848f6f93deb52fff7cf9a35ede9b0b129d2ae39e1708ef3cc5fe2345ef31a3c4  MAXBEN-PLUS-Android-1.0.12-build45-x86_64.apk
+97f33fb3b7ca7428d8c8f83a58eb9693630f8cb1138d958f94c54dbc1d20aff2  MAXBEN-PLUS-Windows-1.0.12-build45-setup.exe
+e29180ac80b20d354a392aab5ae47640007bbe4435c6ee97e7dc8370efa7a1e8  MAXBEN-PLUS-Windows-1.0.12-build45-portable.zip
+292c6708a8a59e196f20d461b14c591d0c8ade1b49cd86980893f732a23f6031  MAXBEN-PLUS-macOS-1.0.12-build45.pkg
 ```
